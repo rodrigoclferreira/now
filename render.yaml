@@ -9,4 +9,4 @@ services:
     autoDeploy: true
     envVars:
       - key: OPENAI_API_KEY
-        value: sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        value: 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
